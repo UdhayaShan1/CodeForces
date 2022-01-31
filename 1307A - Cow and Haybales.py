@@ -26,7 +26,6 @@ while b1==False:
         if ref_list2[i] == 0 or i == 0:
             continue
         temp = ref_list2[i]
-        
         c1 = False
         while c1==False:
             if temp <= 0 or d <= 0 or d < i:
