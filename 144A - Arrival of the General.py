@@ -12,7 +12,6 @@ if n1 - 1 - min_pos >= max_pos:
     count = 0
     max_pos = [i for i, x in enumerate(list1) if x == max(list1)][0]
     while b1==False:
-        
         if list1[0] == max(list1):
             break
         temp1 = list1[max_pos]
