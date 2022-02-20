@@ -36,7 +36,6 @@ while b1==False:
             else:
                 pos_array.append(ref[i])
         if i == len(ref)-1:
-            
             if neg_array == [-100000000000000000000000]:
                 sum1+=max(pos_array)
             else:
