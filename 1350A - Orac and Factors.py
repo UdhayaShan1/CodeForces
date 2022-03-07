@@ -1,4 +1,3 @@
-
 n1 = int(input())
 list1 = []
 for i in range(n1):
